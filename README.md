@@ -3,6 +3,6 @@
 
 Neste despertador, os usuários podem definir alarmes para um determinado horário.
 
-Confira: 
+Confira: https://llopessilva.github.io/alarm-clock/
 
 👋
